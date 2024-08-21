@@ -14,3 +14,10 @@
 * Data Analytics & Storytelling com Power BI
 # Projetos:
 # Mentorias:
+* Live de Lançamento: Bootcamp NTT DATA – Engenharia de Dados com Python
+* Pilares da Programação Orientada a Objetos
+* Construindo APIS em Python
+* Utilizando Spark e Python com PySpark para Análise de Dados
+* Processos de ETL Inteligentes Utilizando Python e Pandas
+* Como Criar e Otimizar Consultas SQL na Prática
+* Conceitos de Arquitetura e Cloud
