@@ -13,6 +13,9 @@
 * Modelagem de Dados com Power BI
 * Data Analytics & Storytelling com Power BI
 # Projetos:
+* Criação de um Sistema Bancário com Python
+* Otimização do Sistema Bancário com Funções Python
+* Modelando o Sistema Bancário em POO com Python
 # Mentorias:
 * Live de Lançamento: Bootcamp NTT DATA – Engenharia de Dados com Python
 * Pilares da Programação Orientada a Objetos
