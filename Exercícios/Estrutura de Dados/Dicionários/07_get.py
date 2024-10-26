@@ -1,6 +1,6 @@
 contatos = {"joao@gmail.com": {"nome": "João", "telefone": "3333-2221"}}
 
-contatos["chave"] # keyError
+# contatos["chave"] # keyError
 
 resultado = contatos.get("chave") # None
 print(resultado)
